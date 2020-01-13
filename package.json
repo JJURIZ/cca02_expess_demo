@@ -1,0 +1,25 @@
+{
+  "name": "cca02_expess_demo",
+  "version": "1.0.0",
+  "description": "This is a demo.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJURIZ/cca02_expess_demo.git"
+  },
+  "keywords": [
+    "jeremyu"
+  ],
+  "author": "jmu",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JJURIZ/cca02_expess_demo/issues"
+  },
+  "homepage": "https://github.com/JJURIZ/cca02_expess_demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
